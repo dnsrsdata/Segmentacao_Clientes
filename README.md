@@ -126,11 +126,11 @@ A versão Python utilizada neste projeto é a 3.9.13.
 
 ### Instalação
 
-1. Crie e ative um ambiente virtual (Opcional)
-2. Clone o repositório
+1. Clone o repositório
    ```sh
    git clone https://github.com/dnsrsdata/Segmentacao_Clientes.git
    ```
+2. Crie e ative um ambiente virtual (Opcional)
 3. Instale os pacotes
    ```sh
    pip install -r requirements.txt
