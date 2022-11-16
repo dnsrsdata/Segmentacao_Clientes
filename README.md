@@ -71,6 +71,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contato">Contato</a></li>
+    <li><a href="#estrutura-do-diretório">Estrutura do diretório</a></li>
   </ol>
 </details>
 
@@ -205,26 +206,26 @@ Outros projetos: [https://github.com/dnsrsdata?tab=repositories](https://github.
 
 
 
-<!-- CONTACT -->
+<!-- Structure -->
 ## Estrutura do diretório
 
-  ├── LICENSE
-  ├── README.md          <- Readme contendo a descrição do projeto.
-  ├── data
-  │   ├── external       <- Dados coletados de terceiros.
-  │   ├── interim        <- Dados com transformações.
-  │   ├── processed      <- Dados finais, após a modelagem.
-  │   └── raw            <- Dados originais, imutáveis.
-  │
-  ├── models             <- Modelos treinados, predições do modelo, ou sumário do modelo.
-  │
-  ├── notebooks          <- Jupyter notebooks.
-  │
-  ├── reports            <- Análises geradas em HTML, PDF, LaTeX, etc.
-  │   └── figures        <- Gráficos gerados e figuras usadas no relatório.
-  │
-  └── requirements.txt   <- Arquivo com as bibliotecas necessárias para a reprodução do projeto.
-                            Gerado com `pip freeze > requirements.txt`
+    ├── LICENSE
+    ├── README.md          <- Readme contendo a descrição do projeto.
+    ├── data
+    │   ├── external       <- Dados coletados de terceiros.
+    │   ├── interim        <- Dados com transformações.
+    │   ├── processed      <- Dados finais, após a modelagem.
+    │   └── raw            <- Dados originais, imutáveis.
+    │
+    ├── models             <- Modelos treinados, predições do modelo, ou sumário do modelo.
+    │
+    ├── notebooks          <- Jupyter notebooks.
+    │
+    ├── reports            <- Análises geradas em HTML, PDF, LaTeX, etc.
+    │   └── figures        <- Gráficos gerados e figuras usadas no relatório.
+    │
+    └── requirements.txt   <- Arquivo com as bibliotecas necessárias para a reprodução do projeto.
+                              Gerado com `pip freeze > requirements.txt`
                           
  <p align="right">(<a href="#ir-para-o-topo">Ir para o topo</a>)</p>
 
