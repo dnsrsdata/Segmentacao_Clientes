@@ -78,7 +78,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Descrição do problema
-[![Product Name Screen Shot][product-screenshot]](reports\figures\analysis-gf95ba779d_640.jpg)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/como-segmentar-leads.jpg)
 
 A Sprocket Central Pty Ltd, uma organização de bicicletas e acessórios de ciclismo de tamanho médio, 
 precisa de ajuda com seus dados de clientes e transações. A organização tem um grande conjunto de dados relacionados a seus clientes, 
@@ -164,23 +164,23 @@ A versão Python utilizada neste projeto é a 3.9.13.
 
 Durante a análise dos dados dos clientes fornecidos pela empresa, foram produzidas algumas visualizações tendo como base os dados dos clientes que podem auxiliar o time de Marketing da Sprocket Central Pty Ltd na otimização da sua estratégia. atráves do gráfico abaixo, onde temos a quantidade de compras por idade, podemos perceber um volume maior de compras entre pessoas com idade entre 41 a 50 anos, mostrando que os clientes da empresa que estão nessa faixa de idade são mais ativos. 
 
-[![chartAge][chart-age]](reports\figures\agexpast3ypurchases.png)
+[![chartAge][chart-age]](https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/agexpast3ypurchases.png)
 
 Já em relação ao segmento de indústria que os clientes participam, foi possível notar que o setor de manufatura, seguido pelo de serviços financeiros são onde estão os clientes que mais compraram produtos de ciclismo nos ultimos 3 anos, onde a quantidade de compras nesses dois setores somados representam 47% de todas as vendas nesse período. Se levassemos em consideração o setor da saúde, o terceiro maior, a representação passa a ser de 66% no número total de vendas, como pode ser visto abaixo.
 
-[![chartSeg][chart-segment]](reports\figures\industcategoryxpast3ypurchases.png)
+[![chartSeg][chart-segment]](https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/industcategoryxpast3ypurchases.png)
 
 Ainda em relação ao cliente, mas dessa vez, relacionando o mesmo com o estado em que reside, percebemos que o estado de New South Wales é onde 53% de todas as vendas ocorreram nos últimos 3 anos, onde mesmo somadas, as vendas que ocorreram em outros estados ainda são inferiores em 15% se compradas com o mesmo. 
 
-[![chartStt][chart-state]](reports\figures\statexpast3ypurchases.png)
+[![chartStt][chart-state]](https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/statexpast3ypurchases.png)
 
 Tirando um pouco o foco do cliente e olhando para o produto, conseguimos ver que a marca Solex é a mais popular, vendendo em média 36% a mais do que as outras marcas.
 
-[![chartBrd][chart-brand]](reports\figures\purchasesperbrand.png)
+[![chartBrd][chart-brand]](https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/purchasesperbrand.png)
 
 Além das visualizações oriundas dos dados fornecidos, também foi desenvolvido um modelo para a clusterização dos consumidores atuais da Sprocket Central Pty Ltd, onde houve uma divisão dos mesmos em dois grupos, sendo registrado um número de compras 170% maior do grupo 1 em relação ao grupo 2 e uma quantidade de custos necessários para a fabricação dos itens 10% menor do primeiro grupo em relação ao segundo, mostrando que o grupo 1, além de consumir bem mais (1,7X) do que o grupo 2, também mostrou ser melhor em relação aos custos de fabricação dos itens. A construção de tal modelo teve como objetivo segmentar uma lista de clientes em potencial, buscando aqueles com características semelhantes aos consumidores do primeiro grupo, que foi julgado ser o melhor. Da lista com 1000 pessoas, 506 foram identificadas como clientes com características semelhantes ao do melhor grupo. O resumo apresentado em uma Dashboard pode ser conferido abaixo.
 
-[![chartpbi][chart-pbi]](reports\figures\dash_pbi.PNG)
+[![chartpbi][chart-pbi]](https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/dash_pbi.PNG)
 
 
 <p align="right">(<a href="#ir-para-o-topo">Ir para o topo</a>)</p>
@@ -217,15 +217,15 @@ Outros projetos: [https://github.com/dnsrsdata?tab=repositories](https://github.
 [license-url]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/daniel-soares-ti
-[product-screenshot]: reports\figures\como-segmentar-leads.jpg
+[product-screenshot]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/como-segmentar-leads.jpg
 [Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [PowerBI]: https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow
 [pbi-url]: https://powerbi.microsoft.com/pt-br/
 [vscode]: https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue
 [vscode-url]: https://code.visualstudio.com/
-[chart-age]: reports\figures\agexpast3ypurchases.png
-[chart-segment]: reports\figures\industcategoryxpast3ypurchases.png
-[chart-state]: reports\figures\statexpast3ypurchases.png
-[chart-brand]: reports\figures\purchasesperbrand.png
-[chart-pbi]: reports\figures\dash_pbi.PNG
+[chart-age]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/agexpast3ypurchases.png
+[chart-segment]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/industcategoryxpast3ypurchases.png
+[chart-state]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/statexpast3ypurchases.png
+[chart-brand]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/purchasesperbrand.png
+[chart-pbi]: https://github.com/dnsrsdata/Segmentacao_Clientes/blob/main/reports/figures/dash_pbi.PNG
