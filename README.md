@@ -91,7 +91,7 @@ A equipe de marketing da Sprocket Central Pty Ltd tem certeza de que, se analisa
 os dados revelariam informações úteis sobre os clientes que poderiam ajudar a otimizar a alocação de 
 recursos para marketing direcionado, concentrando-se em consumidores que poderiam dar um alto retorno.
     
-Além disso, a empresa espera a exibição dos resultados da análise em um painel com no máximo de 3 visualizações/guias.
+Além disso, a empresa espera a exibição dos resultados da análise em um painel com no máximo de 4 visualizações/guias.
 
 <p align="right">(<a href="#ir-para-o-topo">Ir para o topo</a>)</p>
 
